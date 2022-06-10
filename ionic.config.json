@@ -1,0 +1,8 @@
+{
+  "name": "Bustop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ec8a928c"
+}
